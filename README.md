@@ -1,6 +1,10 @@
 ```
 openssl rand -base64 32
 ```
+url
+```
+http://localhost:3000/api/auth/callback/google
+```
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
